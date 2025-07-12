@@ -25,5 +25,15 @@ To create a new repository on GitHub using the terminal, follow these steps:
     git branch -M main
     git push -u origin main
     ```
+    ## Pushing Changes to Git
 
+    After making changes to your files, you can push updates to your GitHub repository with these commands:
+
+    ```bash
+    git add .
+    git commit -m "Describe your changes"
+    git push
+    ```
+
+    This will stage your changes, commit them with a message, and push them to the remote repository.
 Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name.
