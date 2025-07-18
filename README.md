@@ -13,6 +13,7 @@ To create a new repository on GitHub using the terminal, follow these steps:
     git init
     git add .
     git commit -m "Initial commit"
+    git commit -m 'new file'
     ```
 
 3. **Add the remote repository:**
